@@ -1,6 +1,7 @@
 # Animatronic-Hand
 
-Animatronic Hand is a robotic human hand model which mimics the human hand controlling it. The project is based on Arduino microcontroller. The product has potential applications in industries where bare human hand can lead to safety risks and also in robotic surgeries where a human hand has minimal access. We executed the project successfully.
+Animatronic Hand is a robotic human hand model which mimics the human hand controlling it. The project is based on Arduino microcontroller 
+(ATMega328PU). The product has potential applications in industries where bare human hand can lead to safety risks and also in robotic surgeries where a human hand has minimal access.
 
 ## Requirements
 
