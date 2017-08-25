@@ -11,6 +11,7 @@ Animatronic Hand is a robotic human hand model which mimics the human hand contr
 
 - Hardware is based on the ATMega328PU integrated circuit.
 
-  The project schematic can be found here:
+## Schematic
+  ![Alt text](/finalsche1.png?raw=true "Schematic")
 
 
